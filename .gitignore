@@ -1,0 +1,5 @@
+# ingnore z*
+z*.*
+# ignore *.env
+*.env
+/artifacts
